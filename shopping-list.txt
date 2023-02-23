@@ -2,3 +2,5 @@
 2. chips
 3. broccoli
 4. salmon
+5. eggs
+6. cereal
